@@ -7,7 +7,7 @@ tags: [Jekyll,blogs]
 
 Jekyll is a static site generator, that renders Markdown or Textile and Liquid templates, and produces a static website ready to be served by web server.
 
-## Ubuntu
+## Installation on Ubuntu
 ### Install prerequisites
 ```bash
 sudo apt-get install ruby-full build-essential zlib1g-dev

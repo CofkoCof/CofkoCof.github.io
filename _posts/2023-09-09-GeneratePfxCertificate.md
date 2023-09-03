@@ -13,7 +13,7 @@ Sometimes you may have a public key and private key, but you might specifically 
 OpenSSL is probably already installed in your system. If not, just follow the installation guides for you OS.
 
 ## Generate .pfx from cert and private key
-To generate pfx, run below command. Replace the values in <>
+To generate pfx, run below command in directory where resides openssl.exe. Replace the values in <>
 
 ```bash
 openssl pkcs12 -export -out <domain.name.pfx> -inkey <domain.name.key> -in <domain.name.crt>
