@@ -5,7 +5,6 @@ categories: [Jekyll]
 tags: [Jekyll,blogs]
 ---
 
-# Jekyll Installation
 Jekyll is a static site generator, that renders Markdown or Textile and Liquid templates, and produces a static website ready to be served by web server.
 
 ## Ubuntu
