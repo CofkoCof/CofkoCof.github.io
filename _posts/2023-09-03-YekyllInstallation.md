@@ -1,7 +1,7 @@
 ---
 title: Yekyll installation
 date: 2023-09-03 09:00.00 +0000
-categories: [Yekyll, Blogs]
+categories: [Yekyll]
 tags: [yekyll,blogs]
 ---
 
