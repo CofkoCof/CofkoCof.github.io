@@ -23,7 +23,7 @@ title: Don't touch my router # the main title
 tagline: The ramblings of some guy # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  The ramblings of some guy.
+  The ramblings of some guy. Blog about technology, networking, virtualization and other stuff
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://blog.gorjan.eu"
