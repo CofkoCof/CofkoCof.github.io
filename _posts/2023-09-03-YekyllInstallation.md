@@ -1,11 +1,11 @@
 ---
-title: Yekyll installation
+title: Jekyll installation
 date: 2023-09-03 09:00.00 +0000
-categories: [Yekyll]
-tags: [yekyll,blogs]
+categories: [Jekyll]
+tags: [Jekyll,blogs]
 ---
 
-# Yekyll Installation
+# Jekyll Installation
 Jekyll is a static site generator, that renders Markdown or Textile and Liquid templates, and produces a static website ready to be served by web server.
 
 ## Ubuntu
@@ -21,7 +21,7 @@ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-### Install Yekyll and Bundler
+### Install Jekyll and Bundler
 ```bash
 gem install jekyll bundler
 ```
